@@ -1,4 +1,4 @@
-# RENTRI Manager - Refactored Version
+# RENTRI Manager
 
 ## Installazione
 
